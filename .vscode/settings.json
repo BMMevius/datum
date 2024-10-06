@@ -9,7 +9,7 @@
         "**/__pycache__": true
     },
     "python.analysis.autoImportCompletions": true,
-    "python.analysis.importFormat": "absolute",
+    "python.analysis.importFormat": "relative",
     "black-formatter.args": ["--line-length=80"],
     "isort.args": ["--line-length=80", "--profile=black"],
     "autoDocstring.docstringFormat": "numpy",
@@ -36,9 +36,7 @@
     },
     "editor.suggest.showWords": false,
     "python.REPL.enableREPLSmartSend": false,
-    "python.testing.pytestArgs": [
-        "datum_tests"
-    ],
+    "python.testing.pytestArgs": ["datum_tests"],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
 }

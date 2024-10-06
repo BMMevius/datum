@@ -1,0 +1,3 @@
+from .classification_dataset_config import ClassificationDatasetConfig
+
+DatasetConfig = ClassificationDatasetConfig

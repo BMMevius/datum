@@ -1,3 +1,5 @@
 black==24.8.0
+pytest==8.3.3
+-r requirements.common.txt
 -r requirements.tensorflow.txt
 -r requirements.torch.txt

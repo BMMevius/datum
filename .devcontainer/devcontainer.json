@@ -19,7 +19,8 @@
                 "njpwerner.autodocstring",
                 "ms-python.isort",
                 "LittleFoxTeam.vscode-python-test-adapter",
-                "esbenp.prettier-vscode"
+                "esbenp.prettier-vscode",
+                "bierner.github-markdown-preview"
             ]
         }
     }

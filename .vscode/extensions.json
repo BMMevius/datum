@@ -9,7 +9,8 @@
         "njpwerner.autodocstring",
         "ms-python.isort",
         "LittleFoxTeam.vscode-python-test-adapter",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "bierner.github-markdown-preview"
     ],
     "unwantedRecommendations": ["ms-python.autopep8", "dbaeumer.vscode-eslint"]
 }
